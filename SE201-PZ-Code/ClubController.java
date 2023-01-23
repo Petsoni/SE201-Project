@@ -4,13 +4,12 @@
  * Purpose: Defines the Class ClubController
  ***********************************************************************/
 
-import java.io.File;
 import java.util.*;
 
 /** @pdOid 8a9d1cd4-40e7-405d-8000-7d99d052a89b */
 public class ClubController {
    /** @pdOid 897a5b80-271e-46df-8698-7d2689f2f730 */
-   public List<Club> getAllClubs() {
+   public List<Klub> getAllClubs() {
       // TODO: implement
       return null;
    }

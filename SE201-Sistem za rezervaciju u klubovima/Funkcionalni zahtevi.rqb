@@ -302,8 +302,8 @@ ConvTablePath=%_HOME%\Resource Files\Conversion Tables</a:ModelOptionsText>
 <c:DocumentViews>
 <o:RequirementsDocumentView Id="o3">
 <a:ObjectID>FB524849-B1CC-49DD-9A7A-28DDF00B6D4D</a:ObjectID>
-<a:Name>DocumentView_1</a:Name>
-<a:Code>DocumentView_1</a:Code>
+<a:Name>Funkcionalni zahtevi</a:Name>
+<a:Code>Funkcionalni_zahtevi</a:Code>
 <a:CreationDate>1669673983</a:CreationDate>
 <a:Creator>Petar</a:Creator>
 <a:ModificationDate>1669673983</a:ModificationDate>
